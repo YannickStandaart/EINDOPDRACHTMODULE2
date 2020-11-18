@@ -1,0 +1,35 @@
+body {
+  background: #c3cfe2;
+}
+.text {
+  background: #fff;
+  padding: 30px;
+  margin-bottom: 0px;
+  border-radius: 25px 25px 0px 0px;
+  font-size: 20px;
+  color: rgb(80, 77, 77);
+  padding-bottom: 80px;
+}
+.footer {
+  background: #686de0;
+  border-radius: 0px 0px 25px 25px;
+}
+
+.border {
+  border: 50px;
+  padding: 50px;
+  margin: 50px;
+  text-align: center;
+}
+.profilepic {
+  transform: translateY(-50px);
+}
+.name {
+  color: #fff;
+  font-size: 25px;
+}
+.website {
+  padding: 10px;
+  padding-bottom: 30px;
+  color: rgb(152, 170, 230);
+}
